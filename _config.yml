@@ -9,11 +9,11 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Jonathan Zhang's Website"
+title                    : "Jonathan Zhang"
 title_separator          : "-"
-name                     : "&name "Jonathan Zhang"
-description              : "&Cross Cultural Researcher"
-url                      : "https://zeddycraft.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+name                     : "Jonathan Zhang"
+description              : "Cross-Cultural Researcher"
+url                      : "https://zeddycraft.github.io"
 baseurl                  : "https://zeddycraft.github.io"
 repository               : "https://zeddycraft.github.io/itsjon.github.io/"
 
@@ -24,8 +24,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Jonathan Zhang"
-  pronouns         : "He/Him"" 
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : "He/Him" 
+  bio              : "Cross-Cultural Researcher"
   location         : "New Haven, CT"
   employer         : "HRAF at Yale University"
   uni              : "Boston University"
