@@ -14,7 +14,7 @@ title_separator          : "-"
 name                     : "Jonathan Zhang"
 description              : "Cross-Cultural Researcher"
 url                      : "https://zeddycraft.github.io"
-baseurl                  : "https://zeddycraft.github.io/itsjon.github.io/"
+baseurl                  : ""
 repository               : "ZeddyCraft/itsjon.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
