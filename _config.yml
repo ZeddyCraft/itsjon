@@ -22,7 +22,7 @@ repository               : "ZeddyCraft/itsjon.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "IMG_6542.JPG"
   name             : "Jonathan Zhang"
   pronouns         : "He/Him" 
   bio              : "Cross-Cultural Researcher"
@@ -32,7 +32,7 @@ author:
   email            : "itsjon@bu.edu" 
 
   # Academic websites
-  academia         : "https://zeddycraft.github.io/itsjon.github.io/"
+  academia         : "Coming Soon"
   googlescholar    : "Coming Soon"
   researchgate     : "Coming Soon"
 
