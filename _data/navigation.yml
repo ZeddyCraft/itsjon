@@ -9,7 +9,7 @@
 
 main:
   - title: "About me"
-    url: /itsjon/   
+    url: /portfolio/   
   
   - title: "Working Projects/Papers"
     url: /publications/
