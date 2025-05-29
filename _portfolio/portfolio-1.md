@@ -4,4 +4,12 @@ excerpt: "Short description of portfolio item number 1<br/><img src='/images/500
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+My Works
+======
+![Senior Thesis](images/IMG_8771.JPG)
+My most recent work includes a Senior Honors Thesis under Dr. Luke Glowacki, where I investigated the role of post-combat purification rituals in mitigating symptoms of PTSD. Supported by multiple competitive research grants, I built a cross-cultural database from ethnographic materials and used Bayesian statistical methods to identify patterns associated with psychological healing. This research has been presented at both regional and national conferences and is currently being prepared for publication.
+
+![Psycholingustics Lab](IMG_7197.HEIC)
+Beyond this project, I’ve contributed to diverse research efforts in clinical, cultural, and psycholinguistic. As Project Coordinator at BU’s Psycholinguistics Lab, I led a team investigating the “foreign language effect” in Mandarin-English speakers. I’ve also conducted cross-cultural analyses of peacemaking practices and developed strong skills in both qualitative and quantitative research—ranging from ethnographic coding to statistical modeling in R, SPSS, and Excel.
+![Psycholingustics Lab](IMG_7214.HEIC)
+My applied work with local schools and youth organizations in Boston has reinforced my commitment to making research actionable and grounded in lived experience. I believe in the power of interdisciplinary inquiry and community-based collaboration to shape a more inclusive future for mental health science. 
