@@ -12,8 +12,8 @@ site_theme               : "jekyll-theme-minimal"
 title                    : "Jonathan Zhang"
 title_separator          : "-"
 name                     : "Jonathan Zhang"
-description              : "Cross-Cultural Researcher"
-url                      : "https://zeddycraft.github.io"
+description              : "Portfolio Website for Jonathan Zhang"
+url                      : https://zeddycraft.github.io
 baseurl                  : ""
 repository               : "ZeddyCraft/itsjon.github.io"
 
