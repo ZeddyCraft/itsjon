@@ -14,7 +14,7 @@ title_separator          : "-"
 name                     : "Jonathan Zhang"
 description              : "Portfolio Website for Jonathan Zhang"
 url                      : https://zeddycraft.github.io
-baseurl                  : ""
+baseurl                  : "/itsjon"
 repository               : "ZeddyCraft/itsjon.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
