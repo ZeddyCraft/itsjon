@@ -22,7 +22,7 @@ repository               : "ZeddyCraft/itsjon.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "C:/Users/Richard/Desktop/AN588 R Studio/JZ's Portfolio/Headshots/IMG_6542.JPG"
+  avatar           : "IMG_6542.JPG"
   name             : "Jonathan Zhang"
   pronouns         : "He/Him" 
   bio              : "Cross-Cultural Researcher"
@@ -40,8 +40,8 @@ author:
   github           : "ZeddyCraft"
 
   # Social media
-  instagram        : "https://www.instagram.com/jonathanmp4/"
-  linkedin         : "https://www.linkedin.com/in/itsjon"
+  instagram        : "jonathanmp4"
+  linkedin         : "itsjon"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
