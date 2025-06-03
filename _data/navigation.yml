@@ -8,14 +8,20 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "My Works"
+  - title: "About Me"
+    url: /about.md/
+
+  - title: "Research"
     url: /portfolio/   
   
-  - title: "Working Projects/Papers"
-    url: /publications/
+  - title: "Accomplishments/Milestone"
+    url: /year-archive/
 
-  - title: "Previous/Upcoming Presentations"
-    url: /talks/     
+  - title: "Music"
+    url: /talks/
+    
+  - title: "Others"
+    url: /teaching/
     
   - title: "CV"
     url: /cv/
