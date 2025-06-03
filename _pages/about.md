@@ -4,7 +4,6 @@ title: "Who is Jonathan Zhang?"
 author_profile: true
 redirect_from: 
   - /about/
-  - /about.html
 ---
 
 I’m a cross-cultural researcher with a dual background in Psychology and Anthropology, having graduated from Boston University. My work sits at the intersection of culture and mental health, exploring how cultural frameworks shape emotional expression, influence treatment outcomes, and contribute to disparities in care—particularly among at-risk communities. I'm especially interested in how culturally grounded knowledge can be integrated into mental health interventions to cultivate more equitable, responsive, and effective care.
