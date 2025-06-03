@@ -1,7 +1,7 @@
 ---
-title: "Senior Thesis"
-excerpt: "PTSD & Post-Combat Purification Ritual: An Analysis into Potential Therapeutic Benefits<br/><img src='/images/IMG_8771.JPG'>"
-collection: portfolio
+permalink: /research/
+title: "Research"
+author_profile: true
 ---
 
 My Works
