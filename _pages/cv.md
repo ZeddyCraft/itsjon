@@ -11,35 +11,34 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.A. in Psychology, Columbia University, 2028 (expected)
+* B.A. in Psychology & Anthropology, Boston University, 2025
 
-Work experience
+Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* September 2025: Melvin Ember Intern
+  * HRAF @ Yale University
+  * Duties includes: Helping with on-going cross-cultural research projects
+  * Supervisor: Dr. Carol Ember
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2024: Honors Thesis
+  * Boston University
+  * Duties included: Independent Research Project
+  * Supervisor: Dr. Luke Glowacki
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2024: UROP Researcher
+  * Boston University
+  * Duties included: Working on existing research project
+  * Supervisor: Dr. Luke Glowacki
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* R Studio
+* Data Analysis
+  * Descriptive Statistics
+  * Inferential Statistics
+  * Visualization
+* Data Collection
 
 Publications
 ======
@@ -61,4 +60,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Kappa Kappa Psi, Theta Beta Chapter (alumni)
+* BU Bands (alumni)
