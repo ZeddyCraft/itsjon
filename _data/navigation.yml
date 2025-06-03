@@ -9,19 +9,19 @@
 
 main:
   - title: "About Me"
-    url: /about.md/
+    url: /about/
 
   - title: "Research"
-    url: /portfolio/   
+    url: /research/   
   
   - title: "Accomplishments/Milestone"
-    url: /year-archive/
+    url: /milestone/
 
   - title: "Music"
-    url: /talks/
+    url: /music/
     
   - title: "Others"
-    url: /teaching/
+    url: /others/
     
   - title: "CV"
     url: /cv/
