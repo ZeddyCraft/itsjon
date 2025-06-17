@@ -12,6 +12,7 @@ I have been playing music since I was age 8, having done band and orchestra my e
   <img src="https://github.com/ZeddyCraft/itsjon/blob/master/images/IMG_1103.JPG?raw=true" width="200" />
 </div>
 
+
 <img src="https://github.com/ZeddyCraft/itsjon/blob/master/images/IMG_1616.JPG?raw=true" width="600" />
 
 Student Arrangement
