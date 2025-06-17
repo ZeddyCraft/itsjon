@@ -13,6 +13,7 @@ My most recent work includes a Senior Honors Thesis under Dr. Luke Glowacki, whe
   <img src="https://github.com/ZeddyCraft/itsjon/blob/master/images/Honors%20Thesis%203.JPG?raw=true" width="300" />
 </div>
 
+
 Language & Emotions
 ======
 I was a Project Coordinator at the Psycholinguistics Lab, advised by Dr. Catherine Caldwell-Harris, looking into the Foreign Language Effect on Chinese international students through storytelling. As Project Coordinator, I managed a team of undergraduate researchers, leading our student-run research project. Some of my notable works in the project included designing our lab experiment and protocols, coordinating weekly meeting with our students and PI, advising our stats team with the data analysis, and presenting at conferences and symposiums. Our lab project is undergoing publication soon. 
