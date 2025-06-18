@@ -16,7 +16,7 @@ Education
 
 Research experience
 ======
-* September 2025: Melvin Ember Intern
+* Fall 2025: Melvin Ember Intern
   * HRAF @ Yale University
   * Duties includes: Helping with on-going cross-cultural research projects
   * Supervisor: Dr. Carol Ember
@@ -25,10 +25,15 @@ Research experience
   * Boston University
   * Duties included: Independent Research Project
   * Supervisor: Dr. Luke Glowacki
+ 
+* Fall 2024: Project Coordinator
+  * Psycholingustic Lab @ Boston University
+  * Duties includes: Leading on-going research project on language and emotion. 
+  * Supervisor: Dr. Catherine Caldwell-Harris
 
-* Summer 2024: UROP Researcher
+* Spring/Summer 2024: UROP Researcher
   * Boston University
-  * Duties included: Working on existing research project
+  * Duties included: Working on independent research project
   * Supervisor: Dr. Luke Glowacki
   
 Skills
@@ -40,12 +45,6 @@ Skills
   * Visualization
 * Data Collection
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
