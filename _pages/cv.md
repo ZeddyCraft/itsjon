@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<a href="https://github.com/ZeddyCraft/itsjon/blob/master/files/Jonathan's%20BU%20Curiculum%20Valae.pdf" target="_blank">View My CV</a>
+
 Education
 ======
 * M.A. in Psychology, Columbia University, 2028 (expected)
