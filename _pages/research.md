@@ -4,13 +4,13 @@ title: "Research Projects"
 author_profile: true
 ---
 
-Mourning Activities During Bereavement Across Cultures
+Mourning Activities During Bereavement
 ======
-During my time at HRAF, I did an independent project, under the supervision of Dr. Carol Ember, looking at how widows/widowers mourn for their spouses after their death, during their mourning period. This project involved creating a standardized coding procedure that would then be used to code ethnographic materials in the Standard Cross-Cultural Sample by George Murdock through the eHRAF, building a cross-cultural dataset to be used for analysis. The project is still ongoing, as I plan to turn it into my Integrative Project(master's thesis) at Teachers College. Future plans for this project will include adding a mathematic framework into my analysis of the mourning period activities and their outcome, as well as presenting at conferences, with publication being the end goal.
+During my time at the HRAF, I did an independent research project, under the supervision of Dr. Carol Ember, investigating how widows/widowers mourn for their spouses after their death cross-culturally. This project involved systematically analyzing ethnographic records from George Murdock’s Standard Cross-Cultural Sample via eHRAF World Cultures, where I developed a standardized coding procedure to build a structured dataset for comparative analysis. This project will become the foundation for my Integrative Project at Teachers College (masters thesis), where I will be expanding it to incorporate a mathematical framework to model the mourning period activities and their broader social outcomes. I plan on submitting my project for conference presentations, and later on peer-reviewed publication.
 
 <div style="display: flex; gap: 10px;">
   <img src="https://github.com/ZeddyCraft/itsjon/blob/master/images/IMG_8530.jpg?raw=true" width="300" />
-  <img src="https://github.com/ZeddyCraft/itsjon/blob/master/images/IMG_8771.JPG?raw=true" width="300" />
+  <img src="https://github.com/ZeddyCraft/itsjon/blob/master/images/IMG_8524.jpg?raw=true" width="300" />
 </div>
 
 
